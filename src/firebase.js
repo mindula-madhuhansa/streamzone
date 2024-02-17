@@ -3,8 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAdFneGyq0jd4S4VcmcAZXJ3s_nkvWv84U",
-  // apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: "streamzone-5724e.firebaseapp.com",
   projectId: "streamzone-5724e",
   storageBucket: "streamzone-5724e.appspot.com",
