@@ -28,7 +28,3 @@ StreamZone, also known as Streamz, is a Netflix clone where you can create accou
 
 ![search](./screenshots/landing.png)
 ![search](./screenshots/signin.png)
-
-## 🙏 Special Thanks
-
-**This project was completed with the help of [Netflix Clone by Sonny Sangha](https://youtu.be/HW5roUF2RLg?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk).**
